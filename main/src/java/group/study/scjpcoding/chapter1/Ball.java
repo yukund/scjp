@@ -1,4 +1,4 @@
-package group.study.sjcpcoding.chapter1;
+package group.study.scjpcoding.chapter1;
 class Ball implements Bounceable {
 
 	//Variable Decorations Page49 

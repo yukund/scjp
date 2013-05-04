@@ -1,4 +1,4 @@
-package group.study.sjcpcoding.chapter1;
+package group.study.scjpcoding.chapter1;
 
 class Tyre extends Ball{
 
