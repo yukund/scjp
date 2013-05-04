@@ -1,4 +1,4 @@
-//package group.scjp.chapter2;
+package group.study.scjpcoding.chapter2;
 
 public class Book {
 	public Long id;
@@ -12,7 +12,7 @@ public class Book {
 
 	public static void main(String[] args) { 
 		Book bookA = new Book();
-		System.out.println(book.pages + " :) ");
+		System.out.println(bookA.pages + " :) ");
 
 		//bad thing, callers are able to change the state
 		bookA.pages = -100;

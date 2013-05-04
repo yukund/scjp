@@ -1,4 +1,4 @@
-package group.scjp.chapter2;
+package group.study.scjpcoding.chapter2;
 
 // force callers to use accessors methods rather than accessing public variables
 public class GoodBook {
@@ -19,4 +19,12 @@ public class GoodBook {
 		//TODO: add validation logic 
 		numberOfpages = numberOfPages;
 	}
+
+    public void getFood() {
+
+    }
+    public static void main(String... args){
+        System.out.print("abc");
+    }
+
 }
