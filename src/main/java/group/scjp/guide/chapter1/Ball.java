@@ -1,4 +1,4 @@
-package group.study.scjpcoding.chapter1;
+package group.scjp.guide.chapter1;
 class Ball implements Bounceable {
 
 	//Variable Decorations Page49 
@@ -38,12 +38,10 @@ class Ball implements Bounceable {
 		this.name = name + localVar;
 	}
 
-	@Override
 	public void bounce() {
 		System.out.println("bounce !! bounce !!" + Ball.BALL_SIZE);
 	}
 
-	@Override
 	public void setBounceFactor(final int ab) { new Ball();}
 
 	/**

@@ -1,4 +1,4 @@
-package group.study.scjpcoding.chapter2;
+package group.scjp.guide.chapter2;
 
 // force callers to use accessors methods rather than accessing public variables
 public class GoodBook {

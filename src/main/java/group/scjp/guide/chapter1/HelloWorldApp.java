@@ -1,4 +1,4 @@
-package group.study.scjpcoding.chapter1;
+package group.scjp.guide.chapter1;
 
 class HelloWorldApp{
 	public static void main (String[] args) {

@@ -1,4 +1,4 @@
-package group.study.scjpcoding.chapter2;
+package group.scjp.guide.chapter2;
 
 public class Book {
 	public Long id;
