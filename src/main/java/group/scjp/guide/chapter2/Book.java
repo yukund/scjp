@@ -5,9 +5,13 @@ public class Book {
 	public int pages;
 	public String isbn;
 
-	//can change the example to be positive number
+	//pages can be changed to a negative number
 	public Book(){
 		this.pages = 100;
+	}
+	
+	public void showIndex() {
+		System.out.print(this.toString() + ":  print out Book index");
 	}
 
 	public static void main(String[] args) { 
