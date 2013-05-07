@@ -23,5 +23,10 @@ public class Book {
 		System.out.println(bookA.pages + " :( ");
 	}
 
+	public void showBook(Book book) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
 
