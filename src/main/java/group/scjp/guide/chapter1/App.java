@@ -20,4 +20,9 @@ public class App
     {
 
     }
+
+    private void Admin()
+    {
+
+    }
 }
